@@ -13,5 +13,5 @@
 ####  Log(Link:https://drive.google.com/open?id=1NEa8Wf_UFwoh9ZDvS83IRADquEMgZt_z ) Folder contains the trained model using CNN(Inception V3 Model)
 
 ####   To retrain or using other data set train.py
-The project focuses on translating American Sign Language (ASL) fingerspelled alphabet (26 letters). I utilised transfer learning to extract features, followed by a custom classification block to classify letters. This model is then implemented in a real-time system with OpenCV - reading frames from a web camera and classifying them frame-by-frame. This repository contains the code & weights for classifying the American Sign Language (ASL) alphabet in real-time.
+The project focuses on translating American Sign Language (ASL) fingerspelled alphabet (26 letters). I utilised transfer learning to extract features, followed by a custom classification block to classify letters. This model is then implemented in a real-time system with OpenCV - reading frames from a web camera and classifying them frame-by-frame. This repository contains the code & the corresponsing weights for classifying the American Sign Language (ASL) alphabet in real-time.
 
